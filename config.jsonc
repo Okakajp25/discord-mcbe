@@ -3,7 +3,7 @@
 
 {
   // required
-  "discord_token": "MTA1ODkzNTQzNjMyMTQ5MzA5Mw.G4n2PN.5Ozd_-NaJFA83FfPT_JYAFSSAoXTxAhL667nf0", // botのトークン
+  "discord_token": "MTA1ODkzNTQzNjMyMTQ5MzA5Mw.G1IIMp.iDtTnzioK9Au6oERgmYGeyBQmL_s_y3Ho6KKus", // botのトークン
   "guild_id": "1090569189154107543", // このbotを使うサーバー(Guild)のID
   "channel_id": "1092018563428122634", // メッセージを送信するチャンネルのID
   
